@@ -2,7 +2,7 @@
 
 ---
 
-# 📄 Chat with PDF — RAG-Based Document QA System
+#  Chat with PDF — RAG-Based Document QA System
 
 ##  Project Overview
 
